@@ -1,0 +1,35 @@
+{
+  "name": "check-data-type",
+  "version": "1.0.0",
+  "description": "A module to validate the data type in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishoreprabhu/check-data-type.git"
+  },
+  "keywords": [
+    "type",
+    "types",
+    "type-check",
+    "type-checking",
+    "arguments",
+    "parameters",
+    "values",
+    "data",
+    "check",
+    "verify",
+    "safe",
+    "safety",
+    "datatype",
+    "validate"
+  ],
+  "author": "kishoreprabhu <kishoreprabhu97@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishoreprabhu/check-data-type/issues"
+  },
+  "homepage": "https://github.com/kishoreprabhu/check-data-type#readme"
+}
